@@ -1,4 +1,3 @@
-def fun_print:
+def fun_print():
 	print("Hello World!")
-return "Hey"
-	
+	return "Hey"
