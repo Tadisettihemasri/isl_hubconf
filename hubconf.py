@@ -12,6 +12,6 @@ from sklearn.datasets import make_blobs
 # def get_model():
 # 	print("model")
 # 	return model
-def make_blobs:
+def make_blobs():
 	X, y = make_blobs(n_samples=10, centers=3, n_features=2, random_state=0)
 	print(X, y)
